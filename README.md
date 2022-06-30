@@ -11,3 +11,8 @@ From taskbar, click the Windows Start icon andclick the Event viewer button. <p>
 
 On the far right, you will see the Actions pane. Click <b>Filter Current log</b> to open its dialog box. 
 ![filter log](https://user-images.githubusercontent.com/107451613/176723795-93bda28b-0072-4ba8-a225-dd397046aaf0.png)
+
+<hr>
+
+![log4625](https://user-images.githubusercontent.com/107451613/176724604-3d87da87-20a8-4147-b2c4-555f47765214.png)
+Locate the <All Event IDs> dialog box and type <b>4625</b>. A failed login attempt is given the Event ID of 4625. A complete list of Event IDs can be found <a href="https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx"> here </a>.
