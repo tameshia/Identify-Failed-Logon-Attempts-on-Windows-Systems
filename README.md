@@ -21,3 +21,4 @@ Locate the <All Event IDs> dialog box and type <b>4625</b>. A failed login attem
 
 <hr>
 The center of the Event Viewer pane will display all failed logon attempts. If there are an unusually high number of logon attempts within a short period of time, this may suggest an attempted brute force attack. As general rule of thumb, five or more failed logon attempts per account should be investigated. 
+<p>Double click on a failed logon attempt. This will display the Event Properties dialog box. This will show details about the time, date, failure reason, and information about the computer that attempted the logon. Pertinent information from this dialog box can be used to investigate the event further. You can see which username the target was trying to logon to (TargetUserName), the IP address where the logon attempt originated, the port used, and the process that initiated the event. 
