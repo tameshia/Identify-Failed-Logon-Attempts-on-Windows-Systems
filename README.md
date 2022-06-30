@@ -15,4 +15,6 @@ On the far right, you will see the Actions pane. Click <b>Filter Current log</b>
 <hr>
 
 ![log4625](https://user-images.githubusercontent.com/107451613/176724604-3d87da87-20a8-4147-b2c4-555f47765214.png)
-Locate the <All Event IDs> dialog box and type <b>4625</b>. A failed login attempt is given the Event ID of 4625. A complete list of Event IDs can be found <a href="https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx"> here </a>.
+Locate the <All Event IDs> dialog box and type <b>4625</b>. A failed login attempt is given the Event ID of 4625. A complete list of Event IDs can be found <a href="https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx"> here </a>. Click <b>OK</b> to apply the filer. 
+<hr>
+The center of the Event Viewer pane will display all failed logon attempts. If there are an unusually high number of logon attempts within a short period of time, this may suggest an attempted brute force attack. As general rule of thumb, five or more failed logon attempts per account should be investigated. 
