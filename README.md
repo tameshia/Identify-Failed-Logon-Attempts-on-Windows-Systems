@@ -9,7 +9,7 @@ From taskbar, click the Windows Start icon andclick the Event viewer button. <p>
 ![navigation](https://user-images.githubusercontent.com/107451613/176721970-0d5992e5-020e-4f73-a3df-fbd49357162e.png)
 <hr>
 
-On the far right, you will see the Actions pane. Click <b>Filter Current log</b> to open its dialog box. 
+<p>On the far right, you will see the Actions pane. Click <b>Filter Current log</b> to open its dialog box. </p>
 ![filter log](https://user-images.githubusercontent.com/107451613/176723795-93bda28b-0072-4ba8-a225-dd397046aaf0.png)
 
 <hr>
