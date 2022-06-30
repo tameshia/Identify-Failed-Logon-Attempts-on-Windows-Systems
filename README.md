@@ -4,7 +4,9 @@ From taskbar, click the Windows Start icon andclick the Event viewer button. <p>
 
 ![event viewer](https://user-images.githubusercontent.com/107451613/176720521-8e7da4c8-44e9-4948-9167-c77f058f29c4.png)
 <hr>
-<p>From the left pane, navigate to Event Viewer > Windows Logs > Security to open the Security log in the center pane.</p>
+<p>From the left pane, navigate to Event Viewer > Windows Logs > Security to open the Security log in the center pane. The top of the security pane lists the total number of failed and successful logon attempts.</p>
 
 ![navigation](https://user-images.githubusercontent.com/107451613/176721970-0d5992e5-020e-4f73-a3df-fbd49357162e.png)
 <hr>
+
+On the far right, you will see the Actions pane. Click <b>Filter Current log</b> to open its dialog box. 
