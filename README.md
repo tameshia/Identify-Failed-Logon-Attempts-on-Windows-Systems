@@ -8,7 +8,7 @@ Use Event Viewer to identify and analyze failed logon attempts on a Windows syst
 - Windows Security Log
 
 ## Environment Used
-- Windows Server 2019
+- Windows 11 Pro
 
 ## Lab Description
 This lab focuses on identifying failed logon attempts in Windows using Event Viewer. Reviewing failed authentication events is an important part of system administration, troubleshooting, and basic security monitoring.
