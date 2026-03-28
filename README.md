@@ -43,7 +43,7 @@ From the taskbar, click the **Windows Start** icon, then open **Event Viewer**.
 
 ---
 
-From the left pane, navigate to **Event Viewer > Windows Logs > Security** to open the Security log in the center pane.
+From the taskbar, right-click the **Windows Start** icon and select **Event Viewer**. Alternatively, open the **Windows Start** menu, search for **Event Viewer**, and select it from the search results.
 
 ![Security log navigation](screenshots/security-log-navigation.png)
 
