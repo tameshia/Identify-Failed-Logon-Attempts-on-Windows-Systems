@@ -55,7 +55,7 @@ On the right side of the window, click **Filter Current Log** to open the filter
 
 ---
 
-In the **<All Event IDs>** field, type **4625** and click **OK** to apply the filter.
+In the **`<All Event IDs>`** field, type **4625** and click **OK** to apply the filter.
 
 ![Event ID 4625 filter](screenshots/event-id-4625-filter.png)
 
