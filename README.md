@@ -43,9 +43,15 @@ From the taskbar, right-click the **Windows Start** icon and select **Event View
 
 ---
 
-From the left pane, navigate to **Event Viewer > Windows Logs > Security** to open the Security log in the center pane.
+In the left pane, expand **Windows Logs**.
 
-![Security log navigation](screenshots/security-log-navigation.png)
+![Windows Logs expanded](screenshots/windows-logs.png)
+
+---
+
+Select **Security** to open the Security log in the center pane.
+
+![Security log navigation](screenshots/security-log.png)
 
 ---
 
@@ -55,7 +61,7 @@ On the right side of the window, click **Filter Current Log** to open the filter
 
 ---
 
-In the **`<All Event IDs>`** field, type **4625** and click **OK** to apply the filter.
+In the **<All Event IDs>** field, type **4625** and click **OK** to apply the filter.
 
 ![Event ID 4625 filter](screenshots/event-id-4625-filter.png)
 
@@ -67,15 +73,9 @@ After filtering, the Security log will display failed logon events associated wi
 
 ---
 
-Double-click a failed logon event to open the **Event Properties** window and review the details on the **General** tab.
+Double-click a failed logon event to open the **Event Properties** window and review the details on the **General** tab. In this lab, I focused on the event fields that help explain the failed logon attempt.
 
-![Event 4625 General tab](screenshots/event-4625-general-tab.png)
-
----
-
-Review the key event fields to better understand the failed logon attempt.
-
-![Event 4625 key fields](screenshots/event-4625-key-fields.png)
+![Event 4625 General tab and key fields](screenshots/event-4625-key-fields.png)
 
 ## Key Event Fields to Review
 When analyzing Event ID 4625, I focused on the following fields:
