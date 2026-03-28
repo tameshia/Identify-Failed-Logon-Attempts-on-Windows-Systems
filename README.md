@@ -37,13 +37,13 @@ Reviewing this event is useful because it can reveal:
 
 ---
 
-From the taskbar, click the **Windows Start** icon, then open **Event Viewer**.
+From the taskbar, right-click the **Windows Start** icon and select **Event Viewer**. Alternatively, open the **Windows Start** menu, search for **Event Viewer**, and select it from the search results.
 
 ![Event Viewer console](screenshots/event-viewer-console.png)
 
 ---
 
-From the taskbar, right-click the **Windows Start** icon and select **Event Viewer**. Alternatively, open the **Windows Start** menu, search for **Event Viewer**, and select it from the search results.
+From the left pane, navigate to **Event Viewer > Windows Logs > Security** to open the Security log in the center pane.
 
 ![Security log navigation](screenshots/security-log-navigation.png)
 
