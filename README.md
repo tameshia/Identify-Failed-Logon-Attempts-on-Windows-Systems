@@ -131,3 +131,5 @@ While reviewing failed logon events, I asked the following questions:
 
 ## Why This Matters
 Knowing how to identify and interpret failed logon attempts is a useful foundational skill in IT and cybersecurity. Help desk staff may use these events to troubleshoot account issues, system administrators may use them to review authentication problems, and security analysts may use them to identify patterns that could indicate brute-force attempts, unauthorized access attempts, or misconfigured services.
+
+[⬅ Back to Main README](https://github.com/tameshia/Cybersecurity-Labs) | [⏭ Next Lab →](https://github.com/tameshia/Configuring-Windows-Defender-Firewall-Rules)
